@@ -228,7 +228,83 @@ Component bodies cannot be async. Async calls should be wrapped in **useEffect**
 - C: Using only hooks for state management  
 - D: Writing React code exactly like jQuery  
 
-**Explanation:**  
-“Thinking in React” means designing UI by **breaking it into reusable components** and managing **state and props** correctly.
+## 20. Which hook is commonly used to load data from an API in React?
+- **A. useState**  
+- **B. useEffect ✅**  
+- C. use()  
+- D. useData  
 
+---
+
+## 21. What does .catch() do when used with a fetch promise?
+- A. Handles successful responses  
+- **B. Handles errors in the fetch request ✅**  
+- C. Converts JSON to JavaScript  
+- D. Executes the API call again  
+
+---
+
+## 22. In React, how do you display a list of countries from an array of data?
+- A. Using a for loop directly inside JSX  
+- **B. Using .map() to return JSX elements ✅**  
+- C. Using JSON.stringify  
+- D. By creating HTML with innerHTML  
+
+---
+
+## 23. Which prop is required when rendering a list of elements in React?
+- A. id  
+- **B. key ✅**  
+- C. value  
+- D. ref  
+
+---
+
+## 24. If a flag image URL is missing, how can you display alternative text in React?
+- **A. Use alt attribute in <img> ✅**  
+- B. Use innerText property  
+- C. Use altText prop  
+- D. React does not support fallback text  
+
+---
+
+## 25. What does "lifting up the state" mean in React?
+- A. Moving state from parent to child  
+- **B. Moving state from child to parent to share data ✅**  
+- C. Using global variables instead of local state  
+- D. Creating state outside of React  
+
+---
+
+## 26. Why is array comparison in React state tricky?
+- A. Because React does not support arrays  
+- **B. Because arrays are compared by reference, not by value ✅**  
+- C. Because arrays can only store primitive values  
+- D. Because arrays auto-merge when updated  
+
+---
+
+## 27. Which layout technique is typically used for displaying countries in 3 columns?
+- A. flex-direction: row  
+- **B. grid-template-columns ✅**  
+- C. position: absolute  
+- D. float: left  
+
+---
+
+## 28. Which method is used to deploy a React app to Netlify quickly?
+- A. netlify publish ./src  
+- **B. Drag and drop the build folder to Netlify dashboard ✅**  
+- C. npm run netlify  
+- D. Upload index.js file only  
+
+---
+
+## 29. In a 3-column layout in React using CSS Grid, which property defines the number of columns?
+- A. grid-template-rows  
+- **B. grid-template-columns ✅**  
+- C. display: flex  
+- D. justify-content  
+
+---
 ---
