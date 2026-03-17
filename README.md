@@ -307,4 +307,104 @@ Component bodies cannot be async. Async calls should be wrapped in **useEffect**
 - D. justify-content  
 
 ---
----
+
+30️⃣ Why do we use fragments in React?
+
+Options:
+A. It lets you group a list of children without adding extra nodes to the DOM.
+B. It lets you group a list of children by adding extra nodes to the DOM.
+C. It is an HTML element.
+D. It is just a different name of a div
+
+Answer: ✅ A
+
+31️⃣ How can we toggle the boolean state in React?
+const [state, setState] = useState(false)
+
+Options:
+A. setState(!state)
+B. setState(state - state)
+C. setState(current => !current)
+D. 1 & 3 both
+
+Answer: ✅ D
+
+32️⃣ What is Recharts?
+
+Options:
+A. A composable charting library built on JavaScript components
+B. A composable charting library built on React components
+C. A composable charting library built on material UI components
+D. A composable charting library built on bootstrap components
+
+Answer: ✅ B
+
+33️⃣ How can we set dynamic class names in React?
+
+Options:
+A. className={isRed ? "red" : "blue"}
+B. className={card-container ${isRed ? "red" : "blue"}}
+C. className={{red} || {blue}}
+D. Both 1 and 2
+
+Answer: ✅ D
+
+34️⃣ Consider a non-empty array: const data = ["a", "b"] and a callback: const myCallback = item => false. What are the return values of data.filter(myCallback) and data.map(myCallback)?
+
+Options:
+A. filter returns [], map returns []
+B. filter returns [], map returns [false, false]
+C. filter returns [false, false], map returns []
+D. filter returns ["a", "b"], map returns [false, false]
+
+Answer: ✅ B
+
+35️⃣ What is Tailwind CSS?
+
+Options:
+A. A JavaScript library
+B. A CSS preprocessor
+C. A utility-first CSS framework
+D. An animation library
+
+Answer: ✅ C
+
+36️⃣ React-Icons supports integration with which of the following icon libraries?
+
+Options:
+A. Bootstrap Icons
+B. Feather Icons
+C. Ionicons
+D. All of the above
+
+Answer: ✅ D
+
+37️⃣ What is Axios?
+
+Options:
+A. A library for making HTTP requests from the browser
+B. A database management system
+C. A programming language
+D. A web server
+
+Answer: ✅ A
+
+38️⃣ Which command will you use to install Tailwind CSS in your React application?
+
+Options:
+A. npm install -D tailwindcss/vite
+B. npm install @tailwindcss tailwindcss/vite
+C. npm install -D vite/tailwindcss
+D. npm install tailwindcss @tailwindcss/vite
+
+Answer: ✅ D
+
+39️⃣ What is React Awesome Component?
+
+Options:
+A. A popular React library for managing state in functional components
+B. A JavaScript framework for building single-page applications
+C. A collection of high-quality, reusable React components created by the community
+D. A built-in feature of React for creating dynamic UIs
+
+Answer: ✅ C
