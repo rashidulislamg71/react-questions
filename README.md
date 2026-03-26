@@ -408,3 +408,73 @@ C. A collection of high-quality, reusable React components created by the commun
 D. A built-in feature of React for creating dynamic UIs
 
 Answer: ✅ C
+
+40️⃣ How do you declare a variable in JavaScript that cannot be reassigned?
+
+A. var
+B. let
+C. const ✅
+D. static
+
+41️⃣ Which operator is used to check both value and type equality?
+
+A. =
+B. ==
+C. === ✅
+D. None of the Above
+
+42️⃣ What is the output of console.log([1,2,3].map(x => x * 2));?
+
+A. [1,2,3]
+B. [2,4,6] ✅
+C. [1,4,9]
+D. Error
+
+43️⃣ Which hook is used to add state in a functional component?
+
+A. useState ✅
+B. useEffect
+C. useReducer
+D. useContext
+
+44️⃣ What is the default value of useState() if no argument is given?
+
+A. null
+B. undefined ✅
+C. false
+D. 0
+
+45️⃣ What is the correct way to pass a prop named title to a component?
+
+A. <Component title="Hello" /> ✅
+B. <Component props="Hello" />
+C. <Component>title="Hello"</Component>
+D. <Component>Hello</Component>
+
+46️⃣ In React, what does JSX stand for?
+
+A. JavaScript XML ✅
+B. JSON XML
+C. Java Syntax Extension
+D. JavaScript Extended
+
+47️⃣ What happens if you call setState in React with the same value as the current state?
+
+A. Component re-renders
+B. Component does not re-render ✅
+C. React throws an error
+D. State becomes undefined
+
+48️⃣ What is the default behavior of React forms?
+
+A. Forms automatically handle state
+B. Forms auto-submit on enter
+C. Forms store values in Redux
+D. Forms use uncontrolled inputs by default ✅
+
+49️⃣ In React, keys help to:
+
+A. Identify unique elements in a list ✅
+B. Improve CSS performance
+C. Authenticate API requests
+D. Style components
