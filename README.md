@@ -478,3 +478,109 @@ A. Identify unique elements in a list ✅
 B. Improve CSS performance
 C. Authenticate API requests
 D. Style components
+
+
+Here are all the questions, options, and correct answers compiled clearly 👇
+
+---
+
+### 50. What is the main advantage of using Context API to manage state?
+
+A. It reduces code complexity by avoiding the need for props drilling
+B. It improves performance by optimizing component rendering
+C. It provides built-in form validation
+D. It automatically handles asynchronous data fetching
+
+✅ **Answer: A**
+
+---
+
+### 51. What is Prop Drilling in React?
+
+A. It is a technique for passing data from a parent component to a deeply nested child component
+B. It is a way to handle forms in React
+C. It is a method for styling components using props
+D. It is a process for managing state using the useContext hook
+
+✅ **Answer: A**
+
+---
+
+### 52. In a controlled component, which React hook is commonly used to track input value?
+
+A. useRef
+B. useContext
+C. useState
+D. useEffect
+
+✅ **Answer: C**
+
+---
+
+### 53. What is the purpose of using the useRef hook in React?
+
+A. To access the DOM elements directly within functional components
+B. To manage controlled components
+C. To create uncontrolled components
+D. To handle form submissions
+
+✅ **Answer: A**
+
+---
+
+### 54. What is a controlled component in React?
+
+A. A component controlled by CSS
+B. A component where form data is handled by React state
+C. A component that uses only HTML forms
+D. A component that cannot change its value
+
+✅ **Answer: B**
+
+---
+
+### 55. What event is commonly used to handle form submissions in React?
+
+A. onClick
+B. onSubmit
+C. onChange
+D. onBlur
+
+✅ **Answer: B**
+
+---
+
+### 56. How do you use a custom hook in a functional component?
+
+A. By passing it as a prop to the component
+B. By importing it and calling it directly within the component
+C. By wrapping the component with a higher-order component provided by the hook
+D. By defining it within the component using the useCustomHook syntax
+
+✅ **Answer: B**
+
+---
+
+### 57. How do you prevent a page reload when submitting a form in React?
+
+A. Set reload attribute to false
+B. Use a try-catch block
+C. Call event.preventDefault() in the onSubmit handler
+D. Use the onChange handler instead
+
+✅ **Answer: C**
+
+---
+
+### 58. How do you pass children components to a parent component in React?
+
+A. By using props to pass the children components to the parent component
+B. By importing the children components directly within the parent component's JSX
+C. By wrapping the children components with opening and closing tags inside the parent component's JSX
+D. By defining the children components as local variables within the parent component's render method
+
+✅ **Answer: C**
+
+---
+
+
