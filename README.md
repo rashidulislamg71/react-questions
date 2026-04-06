@@ -583,4 +583,123 @@ D. By defining the children components as local variables within the parent comp
 
 ---
 
+# React Quiz Questions
+
+## 59. Which library is commonly used in React applications to handle page navigation?
+
+**Options:**
+- A. Redux  
+- B. React Router  
+- C. Axios  
+- D. Lodash  
+
+**Answer:** B — React Router
+
+---
+
+## 60. What is the purpose of a Navbar in a web application?
+
+**Options:**
+- A. To connect the application with the database  
+- B. To navigate between different pages  
+- C. To store user data  
+- D. To render API responses  
+
+**Answer:** B — To navigate between different pages
+
+---
+
+## 61. Which JavaScript method is commonly used to render a list of items from an array in React?
+
+**Options:**
+- A. filter()  
+- B. map()  
+- C. reduce()  
+- D. find()  
+
+**Answer:** B — map()
+
+---
+
+## 62. What is the purpose of a details page in a web application?
+
+**Options:**
+- A. To show more information about a selected item  
+- B. To delete data from the UI  
+- C. To update database records  
+- D. To reload the entire application  
+
+**Answer:** A — To show more information about a selected item
+
+---
+
+## 63. Which React feature allows sharing data between multiple components without passing props manually?
+
+**Options:**
+- A. useMemo  
+- B. Context API  
+- C. useRef  
+- D. useReducer  
+
+**Answer:** B — Context API
+
+---
+
+## 64. What is the purpose of showing a toast notification in a web application?
+
+**Options:**
+- A. To refresh the page  
+- B. To notify the user about an action or event  
+- C. To update database records  
+- D. To load external APIs  
+
+**Answer:** B — To notify the user about an action or event
+
+---
+
+## 65. What is the purpose of nested layouts in React Router?
+
+**Options:**
+- A. To write CSS inside JavaScript  
+- B. To render components inside a shared layout  
+- C. To create database schemas  
+- D. To manage API calls  
+
+**Answer:** B — To render components inside a shared layout
+
+---
+
+## 66. Why is sorting functionality useful in applications that display lists?
+
+**Options:**
+- A. To delete items automatically  
+- B. To organize data based on specific criteria  
+- C. To reload the application  
+- D. To remove duplicate items  
+
+**Answer:** B — To organize data based on specific criteria
+
+---
+
+## 67. Which platforms are commonly used to deploy frontend React applications?
+
+**Options:**
+- A. Netlify and Surge  
+- B. MongoDB and MySQL  
+- C. Redis and PostgreSQL  
+- D. Docker and Kubernetes  
+
+**Answer:** A — Netlify and Surge
+
+---
+
+## 68. Why is component-based architecture useful in React applications?
+
+**Options:**
+- A. It removes the need for JavaScript  
+- B. It allows reusable and organized UI components  
+- C. It automatically creates backend APIs  
+- D. It replaces CSS frameworks  
+
+**Answer:** B — It allows reusable and organized UI components
 
