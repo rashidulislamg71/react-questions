@@ -703,3 +703,103 @@ D. By defining the children components as local variables within the parent comp
 
 **Answer:** B — It allows reusable and organized UI components
 
+69. Why is file-based routing considered powerful?
+
+Options:
+A. It removes the need for manual route configuration ✅
+B. It decreases bundle size
+C. It replaces APIs
+D. It disables navigation
+
+Answer: A — It removes the need for manual route configuration
+
+70. Why is the <Link> component preferred for navigation?
+
+Options:
+A. It reloads the page faster
+B. It enables client-side navigation without full reload ✅
+C. It replaces routing
+D. It enables SSR
+
+Answer: B — It enables client-side navigation without full reload
+
+71. What does [id] represent in a route?
+
+Options:
+A. A fixed page
+B. A JS variable
+C. A dynamic value from the URL ✅
+D. A database ID only
+
+Answer: C — A dynamic value from the URL
+
+72. Why are multiple layouts useful?
+
+Options:
+A. To create duplicate UI
+B. To reuse structure across different pages ✅
+C. To reduce JavaScript
+D. To disable routing
+
+Answer: B — To reuse structure across different pages
+
+73. Why does Next.js provide built-in image optimization?
+
+Options:
+A. To increase image size
+B. To remove images
+C. To improve performance and loading speed ✅
+D. To block external images
+
+Answer: C — To improve performance and loading speed
+
+74. Why is font optimization important?
+
+Options:
+A. To reduce bundle size and improve performance ✅
+B. To block fonts
+C. To increase text
+D. To enable SSR
+
+Answer: A — To reduce bundle size and improve performance
+
+75. What is a catch-all route [...slug] used for?
+
+Options:
+A. To block all routes
+B. To create dynamic routes
+C. To match multiple dynamic segments in a URL ✅
+D. To replace layouts
+
+Answer: C — To match multiple dynamic segments in a URL
+
+76. What is the relationship between layouts and pages?
+
+Options:
+A. Layouts wrap pages ✅
+B. They are unrelated
+C. Layouts replace pages
+D. Pages wrap layouts
+
+Answer: A — Layouts wrap pages
+
+77. Why is Next.js considered SEO-friendly?
+
+Options:
+A. It improves search engines
+B. It removes metadata
+C. It enables routing
+D. It supports pre-rendered HTML ✅
+
+Answer: D — It supports pre-rendered HTML
+
+78. What happens if a route is not found and no handler exists?
+
+Options:
+A. App crashes
+B. Browser shows default or custom 404 page ✅
+C. Server restarts
+D. CSS resets
+
+Answer: B — Browser shows default or custom 404 page
+
